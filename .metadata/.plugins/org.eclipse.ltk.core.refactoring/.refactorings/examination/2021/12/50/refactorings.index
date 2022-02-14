@@ -1,0 +1,17 @@
+1638964040052	Delete element
+1638968341227	Rename package 'test.com.kh'
+1638972953595	Delete element
+1638979138938	Copy compilation units
+1638990325246	Delete element
+1639007414593	Delete elements
+1639008495366	Delete elements
+1639011036888	Move compilation unit
+1639012987708	Delete element
+1639102596004	Extract method 'createAccount'
+1639103351939	Extract method 'closeAccount'
+1639103857621	Extract method 'deposit'
+1639103884838	Extract method 'withraw'
+1639104086588	Extract method 'showAccount'
+1639104113779	Extract method 'showAccountAll'
+1639104778238	Extract interface 'AccountIf'
+1639107048000	Copy package

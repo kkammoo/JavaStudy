@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.kh.Person"/>
+    <fullyQualifiedTypeName name="com.kh.Calculator"/>
+    <fullyQualifiedTypeName name="solution6.Car2"/>
+    <fullyQualifiedTypeName name="solution6.Car3"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="practice.ShopService"/>
+    <fullyQualifiedTypeName name="exam2.SamsungPhone"/>
+    <fullyQualifiedTypeName name="sloution7.Ques3.LoginServlet"/>
+    <fullyQualifiedTypeName name="sloution7.Ques3.FileDownloadServlet"/>
+    <fullyQualifiedTypeName name="abs.Main"/>
+    <fullyQualifiedTypeName name="sec02.verify.exam03.CheckBox.OnSelctListener"/>
+    <fullyQualifiedTypeName name="sec02.verify.exam03.CheckBox"/>
+    <fullyQualifiedTypeName name="sec02.verify.exam03.CheckBox.OnSelectListener"/>
+    <fullyQualifiedTypeName name="com.kh.exam6.OverAgeException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.text.NumberFormat"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="sec01.verify.exam07.Board"/>
+    <fullyQualifiedTypeName name="sec01.verify.exam08.Student"/>
+    <fullyQualifiedTypeName name="com.kh.homeWork.Admin"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
+    <fullyQualifiedTypeName name="com.kh.homeWork.Membership"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
+    <fullyQualifiedTypeName name="com.words.LoginChk"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="homework03.Account"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
